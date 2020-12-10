@@ -1,0 +1,16 @@
+/**
+ * Style global
+ *
+ * Ce fichier de style est réservé à la définition de styles
+ * CSS qui peuvent être exploité par plusierus composants.
+ */
+
+/**
+ * Ce style de base de bouton peut être utilisé par plusieurs
+ * composant Vue (composant de navigation, de bouton de formulaire,
+ * de lien d'appel à l'action, etc.), il à donc sa place dans le 
+ * fichier de style global.
+ */
+.button {
+  /* Styliser le bouton */
+}
