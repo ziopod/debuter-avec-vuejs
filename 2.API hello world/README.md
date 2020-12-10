@@ -330,4 +330,4 @@ Une fois mis en pratique cet exercice, mettez en place de manière autonaume les
  - utilisez une source de données originale (WP, Big cartel, Contenfull, etc.) ;
  - améliorer le marquage sémantique HTML ;
  - personnalisé la présentation CSS ; 
- - utilisez un composant Vue.js original (cf. notes dans le source de `simple-vue-pagintion`)
+ - utilisez un composant Vue.js original (cf. notes dans le source de `simple-vue-pagination`)
