@@ -325,7 +325,7 @@ Comme pour l'API de Wordpress, il faudras ajuster l'affichage des données en fo
 
 ## Objectifs
 
-Une fois mis en pratique cet exercice, mettez en place de manière autonaume les points suivants :
+Une fois les étapes ci-dessus faites, vous devriez être autonome pour mettre en place les points suivants :
 
  - utilisez une source de données originale (WP, Big cartel, Contenfull, etc.) ;
  - améliorer le marquage sémantique HTML ;
